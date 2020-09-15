@@ -52,6 +52,7 @@ export default function WordCard(props) {
             activationHandler={activationHandler} 
             attempt={state.attempt}/>)} 
         </div>
+        
     );
     
 }
