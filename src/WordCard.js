@@ -53,4 +53,5 @@ export default function WordCard(props) {
             attempt={state.attempt}/>)} 
         </div>
     );
+    
 }
